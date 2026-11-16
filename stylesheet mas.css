@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '.MS Adab {Megasoft}';
+    src: url('MSAdabMegasoft.woff2') format('woff2'),
+        url('MSAdabMegasoft.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
