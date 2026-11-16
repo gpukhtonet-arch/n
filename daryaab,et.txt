@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('./DaryaabNet.woff2') format('woff2'),
+         url('./DaryaabNet.woff') format('woff'),
+         url('./DaryaabNet.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daryaab.Net-1';
+    src: url('./DaryaabNet_1.woff2') format('woff2'),
+         url('./DaryaabNet_1.woff') format('woff'),
+         url('./DaryaabNet_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daryaab.Net-2';
+    src: url('./DaryaabNet_2.woff2') format('woff2'),
+         url('./DaryaabNet_2.woff') format('woff'),
+         url('./DaryaabNet_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'Daryaab.Net', sans-serif;
+}
+
+
+
+
+
+
+
+/* Daryaab Font - Main */
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('./DaryaabNet.woff2') format('woff2'),
+         url('./DaryaabNet.woff') format('woff'),
+         url('./DaryaabNet.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Daryaab Font - Part 2 */
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('./DaryaabNet_1.woff2') format('woff2'),
+         url('./DaryaabNet_1.woff') format('woff'),
+         url('./DaryaabNet_1.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Daryaab Font - Part 3 */
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('./DaryaabNet_2.woff2') format('woff2'),
+         url('./DaryaabNet_2.woff') format('woff'),
+         url('./DaryaabNet_2.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Website Typography */
+body {
+    font-family: 'Daryaab.Net', sans-serif;
+    direction: rtl;
+}
